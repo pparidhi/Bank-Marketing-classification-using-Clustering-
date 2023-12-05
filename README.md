@@ -5,7 +5,8 @@ This project involves the classification of clients subscribing to a term deposi
 ## Dataset
 
 The dataset, named "bank-additional-full.csv," comprises 41188 examples with 20 input features. The classification goal is to predict whether a client will subscribe (yes/no) to a term deposit (variable y).
-(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.)### Attribute Information
+
+### Attribute Information
 
 #### Bank Client Data
 1. Age (numeric)
